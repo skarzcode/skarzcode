@@ -45,6 +45,6 @@ Welcome to my GitHub profile! My name is Abdi Majid and I am a self-taught devel
 
 <div width="100%" align="center"><a href="https://github.com/skarzcode/Invoice-WebApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skarzcode&repo=Invoice-WebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/skarzcode/Devjob-Webapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skarzcode&repo=Devjob-Webapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/skarzcode/RPJ-Test" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skarzcode&repo=RPJ-Test&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/skarzcode/Kanban-Management-WebApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skarzcode&repo=Kanban-Management-WebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
