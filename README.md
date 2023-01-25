@@ -4,7 +4,7 @@ Hi 👋 My name is Abdi Majid
 Software Developer
 ------------------
 
-Welcome to my GitHub profile! My name is Abdi Majid and I am a self-taught developer and freelancer with a passion for creating elegant and intuitive interfaces. I specialize in front-end development, but I am also striving to become a full-stack developer. My love for software development comes from the ability to turn ideas into reality through the use of elegant interfaces. I take great care in the user experience, architecture, and code quality of the things I build, ensuring that they are not only functional but also visually appealing. I am always looking for new challenges and opportunities to improve my skills, so feel free to browse my projects and drop me a message if you have any interesting ideas or projects that you would like to collaborate on. Let's create something amazing together!
+Welcome to my GitHub profile! My name is Abdi Majid and I am a self-taught developer and freelancer with a passion for creating elegant and intuitive interfaces. I specialize in front-end development, but I am also striving to become a full-stack developer.
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [www.amajid.dev](http://amajid.dev)
@@ -24,3 +24,23 @@ Welcome to my GitHub profile! My name is Abdi Majid and I am a self-taught devel
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/skarzcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdi-majid-sahardiid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/skarzcode"><img src="https://github-readme-stats.vercel.app/api?username=skarzcode&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="skarzcode's GitHub stats" /></a>
+
+<a href="http://www.github.com/skarzcode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skarzcode&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/skarzcode"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=skarzcode&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/skarzcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarzcode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/skarzcode/Invoice-WebApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skarzcode&repo=Invoice-WebApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
