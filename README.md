@@ -4,7 +4,7 @@ Hi 👋 My name is Abdi Majid
 Software Developer
 ------------------
 
-Welcome to my GitHub profile! My name is Abdi Majid and I am a self-taught developer and freelancer with a passion for creating elegant and intuitive interfaces. I specialize in front-end development, but I am also striving to become a full-stack developer.
+Welcome to my GitHub profile! My name is Abdi Majid and I am a self-taught developer and Software Engineer Apprentice with a passion for creating solutions that make a positive impact. I have a solid foundation in programming and a drive to continue learning and expanding my skills.
 
 * 🌍  I'm based in London
 * 🖥️  I Just completed working on [Founders & Coders Bootcamp](http://www.foundersandcoders.com/)
