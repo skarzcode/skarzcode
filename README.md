@@ -7,9 +7,8 @@ Software Developer
 Welcome to my GitHub profile! My name is Abdi Majid and I am a self-taught developer and freelancer with a passion for creating elegant and intuitive interfaces. I specialize in front-end development, but I am also striving to become a full-stack developer.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [www.amajid.dev](http://amajid.dev)
-* ✉️  You can contact me at [abdi@amajid.dev](mailto:abdi@amajid.dev)
-* 🚀  I'm currently working on [Founders & Coders Bootcamp](http://www.foundersandcoders.com/)
+* 🖥️  I Just completed working on [Founders & Coders Bootcamp](http://www.foundersandcoders.com/)
+* 🚀  I'm training with Multiverse as a [Software Engineer Apprentice] (https://www.multiverse.io/en-GB/young-adults?utm_term=multiverse&utm_campaign=Branded-BAU-Multiverse-UK25+&utm_source=google&utm_medium=cpc&hsa_acc=3167436195&hsa_cam=18203172154&hsa_grp=127266318923&hsa_ad=556901990857&hsa_src=g&hsa_tgt=kwd-487657406820&hsa_kw=multiverse&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA5NSdBhDfARIsALzs2EDQGD53M8A8GWugL9JKwVvxym59REA7Tu6lGbI1p4bpCrk7f-gwvvoaAljbEALw_wcB)
 * 🧠  I'm learning JavaScript
 * ⚡  I'm secretly Spiderman... but dont't tell anyone
 
